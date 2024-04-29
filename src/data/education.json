@@ -1,0 +1,35 @@
+[
+    {
+      "Cource": "Master of Computer Applications(MCA)",
+      "organisation": "Vikrama Simhapuri University, Nellore",
+      "startDate": "Dec, 2021",
+      "endDate": "Sep, 2023",
+      "CGPA":"CGPA-8.5",
+      "imageSrc": "about/vsu.png"
+    },
+    {
+      "Cource": "Bachelor of Science (Mathematics, Physics, Computer Science)",
+      "organisation": "Sri Prathibha Degree College, Sullurupet",
+      "startDate": "Jun, 2017",
+      "endDate": "Nov, 2020",
+      "CGPA":"CGPA-8.5",
+      "imageSrc": "about/images.png"
+    },
+    {
+      "Cource": "Intermediate (Mathematics, Physics, Chemistory)",
+      "organisation": "Sri Prathibha Junior College, Sullurupet",
+      "startDate": "Jun, 2015",
+      "endDate": "Mar, 2017",
+      "CGPA":"CGPA-8.0",
+      "imageSrc": "about/prathibha_jr.png"
+    },
+    {
+      "Cource": "SSC",
+      "organisation": "ZPP High School Thallampadu, Nellore",
+      "startDate": "Jun, 2014",
+      "endDate": "Mar, 2015",
+      "CGPA":"CGPA-7.3",
+      "imageSrc": "about/ZPP.png"
+    }
+  ]
+  

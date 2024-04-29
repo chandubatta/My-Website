@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "EPIREUM CONSULTANCY & SERVICES OY",
+    "Location":" Anjankuja 3B 110 | Espoo, Finland",
+    "startDate": "Apr, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on Golang, Gin FrameWork, Docker, Kubernetes and Mongodb"],
+    "imageSrc": "history/ECS.png"
+  }
+]

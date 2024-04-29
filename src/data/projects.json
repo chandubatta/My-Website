@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Vikrama Simhapuri University Alumni Association",
+    "imageSrc": "projects/VSU_LOGO.png",
+    "description": "A Python application was developed for Vikrama Simhapuri University to engage with alumni, facilitating online interaction as educational institutions increasingly embrace digital communication. The system aims to offer a centralized platform, enabling efficient management of alumni information, monitoring career advancements, coordinating events, and nurturing networking avenues.",
+    "skills": ["Python", "Flask", "HTML", "CSS", "Javascript", "MySQL" ]
+    
+  },
+  {
+    "title": "Energy Efficient Management System ",
+    "imageSrc": "projects/ECS.png",
+    "description": "In Finland, due to low temperatures, people rely on HVAC systems for warmth and air quality, but these systems emit carbon dioxide. The cost of electricity to power HVAC varies; using renewable sources like wind or solar power reduces expenses. To mitigate costs, Finland implemented the Building Energy Efficient Project, aimed at making HVAC systems more energy-efficient.",
+    "skills": ["Golang", "Gin Framework", "Docker", "Kubernetes","Mongodb"]
+    
+  }
+]

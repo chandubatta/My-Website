@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Golang",
+    "imageSrc": "skills/golang.png"
+  },
+  {
+    "title": "GIN Framework",
+    "imageSrc": "skills/Gin_Framework.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/Docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/Flask.png"
+  },
+  {
+    "title": "MongoDb",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/git.png"
+  }
+]
