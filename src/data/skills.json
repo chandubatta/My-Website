@@ -1,5 +1,18 @@
 [
   {
+    "title": "Golang",
+    "imageSrc": "skills/golang.png"
+  },
+  {
+    "title": "GIN Framework",
+    "imageSrc": "skills/Gin_Framework.png"
+  },
+  {
+    "title":"Gorilla Mux",
+    "imageSrc":"skills/Gorilla_Mux.png"
+
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -8,20 +21,12 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
     "title": "JavaScript",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "Golang",
-    "imageSrc": "skills/golang.png"
-  },
-  {
-    "title": "GIN Framework",
-    "imageSrc": "skills/Gin_Framework.png"
+    "title": "React",
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "Docker",
