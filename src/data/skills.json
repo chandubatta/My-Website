@@ -20,10 +20,7 @@
     "title": "CSS",
     "imageSrc": "skills/css.png"
   },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/node.png"
-  },
+
   {
     "title": "React",
     "imageSrc": "skills/react.png"
@@ -36,14 +33,8 @@
     "title": "Kubernetes",
     "imageSrc": "skills/kubernetes.png"
   },
-  {
-    "title": "Python",
-    "imageSrc": "skills/Python.png"
-  },
-  {
-    "title": "Flask",
-    "imageSrc": "skills/Flask.png"
-  },
+
+
   {
     "title": "MongoDb",
     "imageSrc": "skills/mongodb.png"

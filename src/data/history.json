@@ -7,5 +7,14 @@
     "endDate": "Sep, 2023",
     "experiences": ["Worked on Golang, Gin FrameWork, Docker, Kubernetes and Mongodb"],
     "imageSrc": "history/ECS.png"
+  },
+    {
+    "role": "Software Developer",
+    "organisation": "Apache Footwear India Pvt Ltd",
+    "Location":" Mambattu, Tada | Tirupati, Andhra Pradesh",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+    "experiences": ["Development of RestAPI for Diffeerent Projects using Golang, Gorilla Mux and Mysql"],
+    "imageSrc": "history/APACHE.png"
   }
 ]
