@@ -1,4 +1,4 @@
-/* ===== OLD CODE (commented out) =====
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -9,27 +9,5 @@
 html {
   scroll-behavior: smooth;
 }
-===================================== */
 
-/* ===== NEW CODE ===== */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: "Outfit", Arial, Helvetica, sans-serif;
-}
 
-html {
-  scroll-behavior: smooth;
-  -webkit-text-size-adjust: 100%; /* stops phones from auto-resizing text */
-}
-
-body {
-  width: 100%;
-  overflow-x: hidden; /* no sideways scrolling on phones */
-}
-
-img {
-  max-width: 100%; /* images never go wider than the screen */
-  height: auto;
-}

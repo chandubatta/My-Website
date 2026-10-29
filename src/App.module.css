@@ -1,19 +1,12 @@
 
 @import "./vars.css";
 
-/* ===== OLD CODE (commented out) =====
+
 .App {
   background-color: var(--color-bg);
   width: 100%;
   height: 100%;
   overflow: hidden;
 }
-===================================== */
 
-/* ===== NEW CODE ===== */
-.App {
-  background-color: var(--color-bg);
-  width: 100%;
-  min-height: 100vh;   /* fills the screen, grows with content */
-  overflow-x: hidden;  /* hides sideways overflow only, vertical scroll still works */
-}
+
